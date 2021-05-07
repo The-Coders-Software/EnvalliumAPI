@@ -1,0 +1,6 @@
+name: EnvalliumAPI
+version: 0.1
+main: me.jaydusk.envalliumapi.EnvalliumAPI
+api-version: 1.16
+authors: [ JayDusk ]
+description: An Api to make all you plugin needs easier
